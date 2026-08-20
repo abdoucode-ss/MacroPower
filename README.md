@@ -37,23 +37,9 @@ const abdou = {
 
 <p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,python,flutter" /></p>---
 
-📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdou-cod&show_icons=true&theme=tokyonight&hide_border=true" />
-</p><p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdou-cod&theme=tokyonight&hide_border=true" />
-</p>---
-
-📈 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdou-cod&layout=compact&theme=tokyonight&hide_border=true" />
-</p>---
-
 🌐 Connect With Me
 
-<p align="center"><a href="https://github.com/abdou-cod">
+<p align="center"><a href="https://github.com/abdoucod-ss">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a><a href="https://instagram.com/abdou.cod">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
